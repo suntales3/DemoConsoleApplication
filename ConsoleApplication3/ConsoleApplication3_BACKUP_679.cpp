@@ -3,15 +3,15 @@
 
 #include <iostream>
 
-
+<<<<<<< HEAD
 int add()
 {
 	return 2 + 2;
-}
-
+=======
 int sub()
 {
 	return 2 - 2;
+>>>>>>> features/54321-substruction-function
 }
 
 int main()
